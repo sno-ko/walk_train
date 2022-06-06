@@ -1,0 +1,1 @@
+{"parts_num": 6, "step_num": 5, "rote_speed": 1.5, "torque": 140, "FPStep": 14, "firstStep": true, "genome": [[0, -1, 1, 1, -1], [0, -1, 0, 1, 0], [1, -1, -1, 1, -1], [1, -1, -1, -1, 0], [1, 0, 1, 0, 1]], "parts_size": [1.0, 0.25], "friction_list": [0.3, 0.3, 0.3, 0.3, 0.3, 1.5]}
