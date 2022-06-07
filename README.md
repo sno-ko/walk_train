@@ -24,8 +24,9 @@ python four_legs.py
 
 **尺取虫のほふくの学習：**
 
-![7wdds-lqoiu](https://user-images.githubusercontent.com/65155191/172178050-9b7bf439-de61-4f06-a460-5954ba6dff96.gif)
+![worm](https://user-images.githubusercontent.com/65155191/172369354-a4c8aca6-1b93-475c-9712-6edc7c2f1101.gif)
 
 **四足歩行動物の歩行の学習：**
 
-![hzcrl-8f0tt](https://user-images.githubusercontent.com/65155191/172180100-a5eb2f7c-a226-4432-88b6-c9ac6606e2fe.gif)
+![four_legs](https://user-images.githubusercontent.com/65155191/172367073-aa3a5338-456a-43eb-8906-c83c87505085.gif)
+
